@@ -1,0 +1,2 @@
+Prefix plugins/Gini/example
+Plugin Gini inputfile parameters.txt outputfile gini.csv

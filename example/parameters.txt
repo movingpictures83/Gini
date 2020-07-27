@@ -1,0 +1,3 @@
+otufile	plugins/Gini/example/asv_abund.transpose.csv
+mapping	plugins/Gini/example/asv_map.csv
+tree	plugins/Gini/example/asv_tax.csv
